@@ -1,0 +1,26 @@
+[
+    {
+        "original": "case/1.jpg",
+        "effect": "case/1r.png"
+    },
+    {
+        "original": "case/2.jpg",
+        "effect": "case/2r.png"
+    },
+    {
+        "original": "case/3.png",
+        "effect": "case/3r.png"
+    },
+    {
+        "original": "case/4.webp",
+        "effect": "case/4r.png"
+    },
+    {
+        "original": "case/5.jpg",
+        "effect": "case/5r.png"
+    },
+    {
+        "original": "case/6.jpeg",
+        "effect": "case/6r.png"
+    }
+]
